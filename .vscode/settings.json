@@ -1,9 +1,12 @@
 {
     "cmake.sourceDirectory": "D:/portfolio2/flutter_application_1/todo2/windows",
     "cSpell.words": [
+        "addtodo",
         "autofocus",
         "easyloading",
         "Getx",
-        "todos"
+        "newtodos",
+        "todos",
+        "totaltodos"
     ]
 }
